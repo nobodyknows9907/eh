@@ -1,0 +1,19 @@
+[[patch]]
+author = "YourName"
+desc = "Enable 60 FPS"
+is_enabled = true
+name = "60 FPS"
+
+[[patch.be8]]
+address = 0
+value = 0
+
+[[patch]]
+author = "YourName"
+desc = "Optimize performance settings"
+is_enabled = true
+name = "Performance Optimization"
+
+[[patch.be8]]
+address = 0
+value = 0
